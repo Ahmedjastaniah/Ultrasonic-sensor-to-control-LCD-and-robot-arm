@@ -3,7 +3,7 @@ Using ultrasonic sensor to detect any moving object in the range of 100 cm to fe
 
  ## Components
  - 1 Ultrasonic distance sensor
- - 1 potentiometer
+ - 1 Potentiometer
  - 1 Arduino Uno R3
  - Breadbaourd
  - 4 servo motors
